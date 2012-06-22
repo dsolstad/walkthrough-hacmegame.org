@@ -5,6 +5,6 @@ We can see that the newest is: http://www.hacmegame.org/hacmegame/challenges/pre
 
 Let's try:
 
-`http://www.hacmegame.org/hacmegame/challenges/press_release_09_q2.pdf`
+http://www.hacmegame.org/hacmegame/challenges/press_release_09_q2.pdf
 
 Success!
