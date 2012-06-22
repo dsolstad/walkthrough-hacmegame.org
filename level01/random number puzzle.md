@@ -7,7 +7,7 @@ Here we need to get the current sum equal to the objective sum. Let's edit the h
     <option value="926">926</option>
     <option value="205">205</option>
 </select>
-</pre>
+```
 
 For me the objective sum is 2282. So change the html to:
 ```html
