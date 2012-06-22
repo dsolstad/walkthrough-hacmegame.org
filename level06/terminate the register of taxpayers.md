@@ -39,10 +39,14 @@ For me, navigator["userAgent"]) returns:
 ```Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.10 (maverick) Firefox/3.6.13```
 
 and SHA256 of that:
-```c3d865842b6e9c392cbad25ae3e83814edc42c715013deb0599041b43405148f```
+```
+c3d865842b6e9c392cbad25ae3e83814edc42c715013deb0599041b43405148f
+```
 
 We can set the value for the input manualy by writing this in Firebug or JavaScript console:
-```document["getElementById"]("verification")["value"]=SHA256(navigator["userAgent"]);```
+```
+document["getElementById"]("verification")["value"]=SHA256(navigator["userAgent"]);
+```
 
 or just insert the value directly into the html.
 
