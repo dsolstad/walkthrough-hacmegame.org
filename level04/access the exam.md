@@ -1,4 +1,4 @@
-#### Level 4: Access the exam
+#### Level 04 - Access the exam
 
 We are given a HTTP request and what we are after is this:
 

@@ -1,4 +1,4 @@
-#### Level 4: Doctor Online for humans only
+#### Level 04 - Doctor Online for humans only
 
 View cookie information with Web Developer and find the cookie named "cptch". Mine has the value 31:46:64:58:38.
 Then we can see what happens when we turn this into ASCII.

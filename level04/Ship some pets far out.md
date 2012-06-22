@@ -1,4 +1,4 @@
-#### Level 4: Ship some pets far out
+#### Level 04 - Ship some pets far out
 
 Open Firebug. Inspect the HTML, and you will find that there are some JavaScript files being included.
 Let's take a look at those.
